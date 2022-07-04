@@ -1,0 +1,20 @@
+Ýçindekiler 
+
+1.-Nesne 
+  1.1 - Belirtili  Nesne 
+  1.2 - Belirtisiz Nesne
+
+
+1-Nesne Nedir 
+Nesne , cümlede öznenin yaptýðý iþ ve eylemden doðrudan etkilenen öðedir.
+Yükleme ne,neyi,kimi sorularý sorularak bulunur.
+
+1.1-Belirtili Nesne
+Belirtili nesne ismin belirtme hâl ekini (-ý, -i, -u, -ü) alýr.
+	Öðretmen seni görmek istiyor. (kimi?)
+	Babam evi boyadý. (neyi?)
+
+1.2-Belirtisiz Nesne
+Belirtisiz nesne, hâl eklerinden hiçbirini almaz (yalýn hâldedir).
+	Yolda eþime çiçek aldým. (ne?)
+	Yarýn terziye bir takým elbise diktireceðim. (ne?)

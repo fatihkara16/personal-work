@@ -1,0 +1,7 @@
+Role Yönetimi
+
+  Kurgu , roller admin paneline özel ön tanýmlý þekilde gelecek.
+  yeni admin kullanýcýsý oluþtugunda tanýmlý olan rollerden seçilecek.
+  
+  Kullanýcý oluþturuken rol seç.
+  Seçilen rolü class tarafýnda kontrol et.
