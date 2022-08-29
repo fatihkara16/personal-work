@@ -1,60 +1,60 @@
-İngilizce'de 12 tane tense (zaman) bulunmaktadır.
+Ä°ngilizce'de 12 tane tense (zaman) bulunmaktadÄ±r.
 
 
 --------------------------------------------------------------
-1-Simple Present Tense (Geniş Zaman)
+1-Simple Present Tense (GeniÅŸ Zaman)
 
-  *(+) Olumlu cümlede özneden sonraki fiile (He,She,It için) 
-'s' eklenir ,diğer fiiler ise hiçbir şey almaz yalın 
+  *(+) Olumlu cÃ¼mlede Ã¶zneden sonraki fiile (He,She,It iÃ§in) 
+'s' eklenir ,diÄŸer fiiler ise hiÃ§bir ÅŸey almaz yalÄ±n 
 haldedirler.
-  *Fiile 's' eklenirken şayet fiil ss,sh,ch,x,o ile 
+  *Fiile 's' eklenirken ÅŸayet fiil ss,sh,ch,x,o ile 
 bitiyorsa fiile 'es' eklenir.
  
-  *(-) Olumsuz cümlede ise I,You,We,They özneleri do not 
-kısaca don't ,He,She,It özneleri ise does not kısaca doesn't
-alır ve fiil bütün öznelerde yalın haldedir.
+  *(-) Olumsuz cÃ¼mlede ise I,You,We,They Ã¶zneleri do not 
+kÄ±saca don't ,He,She,It Ã¶zneleri ise does not kÄ±saca doesn't
+alÄ±r ve fiil bÃ¼tÃ¼n Ã¶znelerde yalÄ±n haldedir.
 
-  *(?) Soru cümlelerinde ise Do I,You,We,They öznelerinden 
-önce Does fiili ise He,She,It öznelerinden önce getirilir.
+  *(?) Soru cÃ¼mlelerinde ise Do I,You,We,They Ã¶znelerinden 
+Ã¶nce Does fiili ise He,She,It Ã¶znelerinden Ã¶nce getirilir.
 
 --------------------------------------------------------------
 
-2-The Present Continuous Tense (Şimdiki Zaman)
+2-The Present Continuous Tense (Åimdiki Zaman)
 
-  *Şimdiki zamanda yardımcı fiil 'Am,Is,Are'dır , Fiil 
-her zaman  '-ing' takısı alır.Bu aynı zamanda olumlu halidir.
+  *Åimdiki zamanda yardÄ±mcÄ± fiil 'Am,Is,Are'dÄ±r , Fiil 
+her zaman  '-ing' takÄ±sÄ± alÄ±r.Bu aynÄ± zamanda olumlu halidir.
   
-  *Olumsuz halinde yardımcı fiil den sonra not kullanılır.
+  *Olumsuz halinde yardÄ±mcÄ± fiil den sonra not kullanÄ±lÄ±r.
 
-  *Soru cümlelerinde Am,Is,Are başa gelir.
+  *Soru cÃ¼mlelerinde Am,Is,Are baÅŸa gelir.
 
 
 --------------------------------------------------------------
 
-3-The Simple Past Tense (Geçmiş Zaman)
+3-The Simple Past Tense (GeÃ§miÅŸ Zaman)
 
-Olumlu cümlede bütün öznelerden sonra fiil düzensiz ise 
-2.hali , düzenli ise '-ed' eklenir.
+Olumlu cÃ¼mlede bÃ¼tÃ¼n Ã¶znelerden sonra fiil dÃ¼zensiz ise 
+2.hali , dÃ¼zenli ise '-ed' eklenir.
 
-Olumsuz halinde bütün öznelerden sonra did not , didn't 
-getirilip fiilin 1.hali kullanılır.
+Olumsuz halinde bÃ¼tÃ¼n Ã¶znelerden sonra did not , didn't 
+getirilip fiilin 1.hali kullanÄ±lÄ±r.
 
-Soru halinde did başa gelir ve yine fiilin 1.hali kullanılır.
+Soru halinde did baÅŸa gelir ve yine fiilin 1.hali kullanÄ±lÄ±r.
 
 --------------------------------------------------------------
 
 4-The Past Continuous Tense
 
-Bu tense Türkçe karşılığı şimdiki zamanın hikayesidir.
+Bu tense TÃ¼rkÃ§e karÅŸÄ±lÄ±ÄŸÄ± ÅŸimdiki zamanÄ±n hikayesidir.
 
-Olumlu I,He,She,It was, You,We,They  öznelerinden sonra were yardımcı fiili getirilir. 
+Olumlu I,He,She,It was, You,We,They  Ã¶znelerinden sonra were yardÄ±mcÄ± fiili getirilir. 
 
-Olumsuz halinde yardımcı fiil not alır ve fiil yine ing takısı alır.
+Olumsuz halinde yardÄ±mcÄ± fiil not alÄ±r ve fiil yine ing takÄ±sÄ± alÄ±r.
 
-Soru halinde was were yardımcı fiili özneden önce gelir fiil yine ing takısı alır.
+Soru halinde was were yardÄ±mcÄ± fiili Ã¶zneden Ã¶nce gelir fiil yine ing takÄ±sÄ± alÄ±r.
 
-
-
+--------------------------------------------------------------
+5-The Present Perfect Tense 
 
 
 
